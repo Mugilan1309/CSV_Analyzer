@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"  # Green highlights
+backgroundColor = "#1E1E1E"  # Dark background
+secondaryBackgroundColor = "#333333"  # Darker panels
+textColor = "#FAFAFA"  # White text
+font = "sans serif"
