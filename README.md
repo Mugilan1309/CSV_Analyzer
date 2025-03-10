@@ -19,7 +19,7 @@ This is a **Python & Streamlit-based CSV Analysis & Preprocessing Tool** that al
 ## 🚀 Installation & Running Locally  
 1️⃣ Clone the repo:  
 ```bash
-git clone https://github.com/your-username/csv-analyser-tool.git
+git clone https://github.com/Mugilan1309/CSV_Analyzer
 cd csv-analyser-tool
 ```
 2️⃣ Install dependencies:
@@ -32,8 +32,7 @@ streamlit run app.py
 ```
 ## 🛠️ Tech Stack
 Python 🐍
-
-## Streamlit 🎈
+Streamlit 🎈
 Pandas, NumPy, Matplotlib, Scikit-Learn for data analysis
 
 ## 💡 Future Enhancements
